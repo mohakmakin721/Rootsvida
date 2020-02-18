@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765345376705",
+    "firebase_url": "https://rootsvida-dffcb.firebaseio.com",
+    "project_id": "rootsvida-dffcb",
+    "storage_bucket": "rootsvida-dffcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765345376705:android:e433acd38cbe47677f2740",
+        "android_client_info": {
+          "package_name": "com.mm.rootsvida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765345376705-l10lmiph3i6n8q5gj5f1cetfnm87uo19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mm.rootsvida",
+            "certificate_hash": "7715c224016177d2b8343d5fcdf13f0347e89951"
+          }
+        },
+        {
+          "client_id": "765345376705-55u9uik833hv4dmn2365nh0nes6n1v2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcjdAJTQ9jbxaeQEQMjEajwZNCdGnz97I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765345376705-55u9uik833hv4dmn2365nh0nes6n1v2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
